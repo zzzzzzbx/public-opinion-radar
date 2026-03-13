@@ -225,9 +225,8 @@ MIT License — 详见 [LICENSE](LICENSE) 文件
 
 ## 📬 联系方式
 
-- **作者**: [你的名字]
-- **Email**: [你的邮箱]
-- **GitHub**: [你的 GitHub 主页]
+- **作者**: 尊敬的zzzzzzzbx大人
+- **Email**: 1589678812
 
 ---
 
